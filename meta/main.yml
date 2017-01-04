@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - geerlingguy.php
+        #  - geerlingguy.php
 
 galaxy_info:
   author: geerlingguy
